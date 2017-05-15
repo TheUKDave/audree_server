@@ -90,3 +90,6 @@ ENV/
 
 # ignore local environment variables
 environment.sh
+
+# static files
+staticfiles/
