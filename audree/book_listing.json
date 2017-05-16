@@ -1,0 +1,537 @@
+{
+    "alices_adventures_in_wonderland": {
+        "album_art": "alices_adventures_in_wonderland.jpg",
+        "description": null,
+        "parts": [
+            {
+                "description": null,
+                "file": "alices_adventures_01_carroll_64kb.mp3",
+                "title": "alices_adventures_01_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_02_carroll_64kb.mp3",
+                "title": "alices_adventures_02_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_03_carroll_64kb.mp3",
+                "title": "alices_adventures_03_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_04_carroll_64kb.mp3",
+                "title": "alices_adventures_04_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_05_carroll_64kb.mp3",
+                "title": "alices_adventures_05_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_06_carroll_64kb.mp3",
+                "title": "alices_adventures_06_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_07_carroll_64kb.mp3",
+                "title": "alices_adventures_07_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_08_carroll_64kb.mp3",
+                "title": "alices_adventures_08_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_09_carroll_64kb.mp3",
+                "title": "alices_adventures_09_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_10_carroll_64kb.mp3",
+                "title": "alices_adventures_10_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_11_carroll_64kb.mp3",
+                "title": "alices_adventures_11_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "alices_adventures_12_carroll_64kb.mp3",
+                "title": "alices_adventures_12_carroll_64kb.mp3"
+            }
+        ],
+        "title": "alices_adventures_in_wonderland"
+    },
+    "grimm_fairy_tales": {
+        "album_art": "grimm_fairy_tales.jpg",
+        "description": null,
+        "parts": [
+            {
+                "description": null,
+                "file": "grimmsfairytales_01_grimm_64kb.mp3",
+                "title": "grimmsfairytales_01_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_02_grimm_64kb.mp3",
+                "title": "grimmsfairytales_02_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_03_grimm_64kb.mp3",
+                "title": "grimmsfairytales_03_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_04_grimm_64kb.mp3",
+                "title": "grimmsfairytales_04_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_05_grimm_64kb.mp3",
+                "title": "grimmsfairytales_05_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_06_grimm_64kb.mp3",
+                "title": "grimmsfairytales_06_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_07_grimm_64kb.mp3",
+                "title": "grimmsfairytales_07_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_08_grimm_64kb.mp3",
+                "title": "grimmsfairytales_08_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_09_grimm_64kb.mp3",
+                "title": "grimmsfairytales_09_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_10_grimm_64kb.mp3",
+                "title": "grimmsfairytales_10_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_11_grimm_64kb.mp3",
+                "title": "grimmsfairytales_11_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_12_grimm_64kb.mp3",
+                "title": "grimmsfairytales_12_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_13_grimm_64kb.mp3",
+                "title": "grimmsfairytales_13_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_14_grimm_64kb.mp3",
+                "title": "grimmsfairytales_14_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_15_grimm_64kb.mp3",
+                "title": "grimmsfairytales_15_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_16_grimm_64kb.mp3",
+                "title": "grimmsfairytales_16_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_17_grimm_64kb.mp3",
+                "title": "grimmsfairytales_17_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_18_grimm_64kb.mp3",
+                "title": "grimmsfairytales_18_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_19_grimm_64kb.mp3",
+                "title": "grimmsfairytales_19_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_20_grimm_64kb.mp3",
+                "title": "grimmsfairytales_20_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_21_grimm_64kb.mp3",
+                "title": "grimmsfairytales_21_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_22_grimm_64kb.mp3",
+                "title": "grimmsfairytales_22_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_23_grimm_64kb.mp3",
+                "title": "grimmsfairytales_23_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_24_grimm_64kb.mp3",
+                "title": "grimmsfairytales_24_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_25_grimm_64kb.mp3",
+                "title": "grimmsfairytales_25_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_26_grimm_64kb.mp3",
+                "title": "grimmsfairytales_26_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_27_grimm_64kb.mp3",
+                "title": "grimmsfairytales_27_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_28_grimm_64kb.mp3",
+                "title": "grimmsfairytales_28_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_29_grimm_64kb.mp3",
+                "title": "grimmsfairytales_29_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_30_grimm_64kb.mp3",
+                "title": "grimmsfairytales_30_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_31_grimm_64kb.mp3",
+                "title": "grimmsfairytales_31_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_32_grimm_64kb.mp3",
+                "title": "grimmsfairytales_32_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_33_grimm_64kb.mp3",
+                "title": "grimmsfairytales_33_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_34_grimm_64kb.mp3",
+                "title": "grimmsfairytales_34_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_35_grimm_64kb.mp3",
+                "title": "grimmsfairytales_35_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_36_grimm_64kb.mp3",
+                "title": "grimmsfairytales_36_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_37_grimm_64kb.mp3",
+                "title": "grimmsfairytales_37_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_38_grimm_64kb.mp3",
+                "title": "grimmsfairytales_38_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_39_grimm_64kb.mp3",
+                "title": "grimmsfairytales_39_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_40_grimm_64kb.mp3",
+                "title": "grimmsfairytales_40_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_41_grimm_64kb.mp3",
+                "title": "grimmsfairytales_41_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_42_grimm_64kb.mp3",
+                "title": "grimmsfairytales_42_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_43_grimm_64kb.mp3",
+                "title": "grimmsfairytales_43_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_44_grimm_64kb.mp3",
+                "title": "grimmsfairytales_44_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_45_grimm_64kb.mp3",
+                "title": "grimmsfairytales_45_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_46_grimm_64kb.mp3",
+                "title": "grimmsfairytales_46_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_47_grimm_64kb.mp3",
+                "title": "grimmsfairytales_47_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_48_grimm_64kb.mp3",
+                "title": "grimmsfairytales_48_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_49_grimm_64kb.mp3",
+                "title": "grimmsfairytales_49_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_50_grimm_64kb.mp3",
+                "title": "grimmsfairytales_50_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_51_grimm_64kb.mp3",
+                "title": "grimmsfairytales_51_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_52_grimm_64kb.mp3",
+                "title": "grimmsfairytales_52_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_53_grimm_64kb.mp3",
+                "title": "grimmsfairytales_53_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_54_grimm_64kb.mp3",
+                "title": "grimmsfairytales_54_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_55_grimm_64kb.mp3",
+                "title": "grimmsfairytales_55_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_56_grimm_64kb.mp3",
+                "title": "grimmsfairytales_56_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_57_grimm_64kb.mp3",
+                "title": "grimmsfairytales_57_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_58_grimm_64kb.mp3",
+                "title": "grimmsfairytales_58_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_59_grimm_64kb.mp3",
+                "title": "grimmsfairytales_59_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_60_grimm_64kb.mp3",
+                "title": "grimmsfairytales_60_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_61_grimm_64kb.mp3",
+                "title": "grimmsfairytales_61_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_62_grimm_64kb.mp3",
+                "title": "grimmsfairytales_62_grimm_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "grimmsfairytales_63_grimm_64kb.mp3",
+                "title": "grimmsfairytales_63_grimm_64kb.mp3"
+            }
+        ],
+        "title": "grimm_fairy_tales"
+    },
+    "hunting_of_the_snark": {
+        "album_art": "hunting_of_the_snark.jpg",
+        "description": null,
+        "parts": [
+            {
+                "description": null,
+                "file": "huntingofthesnark_1_carroll_64kb.mp3",
+                "title": "huntingofthesnark_1_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "huntingofthesnark_2_carroll_64kb.mp3",
+                "title": "huntingofthesnark_2_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "huntingofthesnark_3_carroll_64kb.mp3",
+                "title": "huntingofthesnark_3_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "huntingofthesnark_4_carroll_64kb.mp3",
+                "title": "huntingofthesnark_4_carroll_64kb.mp3"
+            }
+        ],
+        "title": "hunting_of_the_snark"
+    },
+    "through_the_looking_glass": {
+        "album_art": "through_the_looking_glass.jpg",
+        "description": null,
+        "parts": [
+            {
+                "description": null,
+                "file": "looking-glass_01_carroll_64kb.mp3",
+                "title": "looking-glass_01_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_02_carroll_64kb.mp3",
+                "title": "looking-glass_02_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_03_carroll_64kb.mp3",
+                "title": "looking-glass_03_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_04_carroll_64kb.mp3",
+                "title": "looking-glass_04_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_05_carroll_64kb.mp3",
+                "title": "looking-glass_05_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_06_carroll_64kb.mp3",
+                "title": "looking-glass_06_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_07_carroll_64kb.mp3",
+                "title": "looking-glass_07_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_08_carroll_64kb.mp3",
+                "title": "looking-glass_08_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_09_carroll_64kb.mp3",
+                "title": "looking-glass_09_carroll_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "looking-glass_10-11-12_carroll_64kb.mp3",
+                "title": "looking-glass_10-11-12_carroll_64kb.mp3"
+            }
+        ],
+        "title": "through_the_looking_glass"
+    },
+    "wonderful_wizard_of_oz": {
+        "album_art": "wonderful_wizard_of_oz.jpg",
+        "description": null,
+        "parts": [
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_01_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_01_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_02_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_02_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_03_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_03_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_04_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_04_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_05_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_05_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_06_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_06_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_07_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_07_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_08_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_08_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_09_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_09_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_10_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_10_baum_64kb.mp3"
+            },
+            {
+                "description": null,
+                "file": "wonderfulwizardofoz_11_baum_64kb.mp3",
+                "title": "wonderfulwizardofoz_11_baum_64kb.mp3"
+            }
+        ],
+        "title": "wonderful_wizard_of_oz"
+    }
+}
