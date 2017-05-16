@@ -1,7 +1,6 @@
 from .base import *
 
 DEBUG = True
-ALLOWED_HOSTS = []
-ADMINS = (('David Downes', 'david@downes.co.uk'),)
-
+ALLOWED_HOSTS = ['*']
+SECRET_KEY = 'FAKE SECRET KEY'
 RESTRICT_IPS = False
