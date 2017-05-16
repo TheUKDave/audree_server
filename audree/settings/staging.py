@@ -1,7 +1,7 @@
 from .base import *
 
 DEBUG = False
-ALLOWED_HOSTS = ['staging.audree.ee']
+ALLOWED_HOSTS = ['staging.audr.ee']
 ADMINS = (('David Downes', 'david@downes.co.uk'),)
 
 RESTRICT_IPS = True
