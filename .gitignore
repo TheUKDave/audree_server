@@ -93,3 +93,6 @@ environment.sh
 
 # static files
 staticfiles/
+
+# Audiobook files
+static/audio/
