@@ -1,537 +1,537 @@
 {
-    "alices_adventures_in_wonderland": {
+    "Alice's Adventures in Wonderland": {
         "album_art": "alices_adventures_in_wonderland.jpg",
-        "description": null,
+        "description": "Alice's Adventures in Wonderland tells the story of a girl named Alice who falls down a rabbit hole into a fantasy world populated by peculiar and anthropomorphic creatures. The tale plays with logic in ways that have given the story lasting popularity with adults as well as children. It is considered to be one of the most characteristic examples of the 'literary nonsense' genre, and its narrative course and structure have been enormously influential, especially in the fantasy genre",
+        "readers": ["Kara Shallenberg"],
+        "authors": ["Lewis Carroll"],
+        "translators": null,
         "parts": [
             {
                 "description": null,
                 "file": "alices_adventures_01_carroll_64kb.mp3",
-                "title": "alices_adventures_01_carroll_64kb.mp3"
+                "title": "Down the Rabbit-Hole"
             },
             {
                 "description": null,
                 "file": "alices_adventures_02_carroll_64kb.mp3",
-                "title": "alices_adventures_02_carroll_64kb.mp3"
+                "title": "The Pool of Tears"
             },
             {
                 "description": null,
                 "file": "alices_adventures_03_carroll_64kb.mp3",
-                "title": "alices_adventures_03_carroll_64kb.mp3"
+                "title": "A Caucus Race and a Long Tale"
             },
             {
                 "description": null,
                 "file": "alices_adventures_04_carroll_64kb.mp3",
-                "title": "alices_adventures_04_carroll_64kb.mp3"
+                "title": "The Rabbit Sents in a Little Bill"
             },
             {
                 "description": null,
                 "file": "alices_adventures_05_carroll_64kb.mp3",
-                "title": "alices_adventures_05_carroll_64kb.mp3"
+                "title": "Advice from a Caterpillar"
             },
             {
                 "description": null,
                 "file": "alices_adventures_06_carroll_64kb.mp3",
-                "title": "alices_adventures_06_carroll_64kb.mp3"
+                "title": "Pig and Pepper"
             },
             {
                 "description": null,
                 "file": "alices_adventures_07_carroll_64kb.mp3",
-                "title": "alices_adventures_07_carroll_64kb.mp3"
+                "title": "A Mad Tea Party"
             },
             {
                 "description": null,
                 "file": "alices_adventures_08_carroll_64kb.mp3",
-                "title": "alices_adventures_08_carroll_64kb.mp3"
+                "title": "The Queen's Croquet Ground"
             },
             {
                 "description": null,
                 "file": "alices_adventures_09_carroll_64kb.mp3",
-                "title": "alices_adventures_09_carroll_64kb.mp3"
+                "title": "The Mock Turtle's Story"
             },
             {
                 "description": null,
                 "file": "alices_adventures_10_carroll_64kb.mp3",
-                "title": "alices_adventures_10_carroll_64kb.mp3"
+                "title": "The Lobster Quadrille"
             },
             {
                 "description": null,
                 "file": "alices_adventures_11_carroll_64kb.mp3",
-                "title": "alices_adventures_11_carroll_64kb.mp3"
+                "title": "Who Stole the Tarts?"
             },
             {
                 "description": null,
                 "file": "alices_adventures_12_carroll_64kb.mp3",
-                "title": "alices_adventures_12_carroll_64kb.mp3"
+                "title": "Alice's Evidence"
             }
         ],
-        "title": "alices_adventures_in_wonderland"
+        "title": "Alice's Adventures in Wonderland"
     },
-    "grimm_fairy_tales": {
+    "Grimm Fairy Tales": {
         "album_art": "grimm_fairy_tales.jpg",
-        "description": null,
+        "description": "A collection of German origin fairy tales first published in 1812 by Jacob and Wilhelm Grimm, the Brothers Grimm. The collection is commonly known today as Grimms' Fairy Tales (German: Grimms Märchen). Please note that some of the contents may not be suitable for younger listeners",
+        "readers": ["Bob Neufeld"],
+        "authors": ["Jacob Grimm", "Wilhelm Grimm"],
+        "translators": ["Edgar Taylor", "Marion Edwards"],
         "parts": [
             {
-                "description": null,
+                "description": "Three gardener's sons are sent on a quest to capture a golden bird",
                 "file": "grimmsfairytales_01_grimm_64kb.mp3",
-                "title": "grimmsfairytales_01_grimm_64kb.mp3"
+                "title": "The Golden Bird"
             },
             {
-                "description": null,
+                "description": "The epic journey of Hans trying to get home",
                 "file": "grimmsfairytales_02_grimm_64kb.mp3",
-                "title": "grimmsfairytales_02_grimm_64kb.mp3"
+                "title": "Hans in Luck"
             },
             {
-                "description": null,
+                "description": "A young couple encounter an evil witch",
                 "file": "grimmsfairytales_03_grimm_64kb.mp3",
-                "title": "grimmsfairytales_03_grimm_64kb.mp3"
+                "title": "Jorinda and Jorindel"
             },
             {
-                "description": null,
+                "description": "A group of animals on a journey to become musicians",
                 "file": "grimmsfairytales_04_grimm_64kb.mp3",
-                "title": "grimmsfairytales_04_grimm_64kb.mp3"
+                "title": "The Travelling Musicians"
             },
             {
-                "description": null,
+                "description": "The adventure of an old dog called Sultan",
                 "file": "grimmsfairytales_05_grimm_64kb.mp3",
-                "title": "grimmsfairytales_05_grimm_64kb.mp3"
+                "title": "Old Sultan"
             },
             {
-                "description": null,
+                "description": "An adventurous trio seek escape",
                 "file": "grimmsfairytales_06_grimm_64kb.mp3",
-                "title": "grimmsfairytales_06_grimm_64kb.mp3"
+                "title": "The Straw, The Bean, and The Coal"
             },
             {
-                "description": null,
+                "description": "A cursed princess lies as a sleeping beauty",
                 "file": "grimmsfairytales_07_grimm_64kb.mp3",
-                "title": "grimmsfairytales_07_grimm_64kb.mp3"
+                "title": "Brier Rose"
             },
             {
-                "description": null,
+                "description": "A dog and a sparrow form a friendship that is ruined by a careless man",
                 "file": "grimmsfairytales_08_grimm_64kb.mp3",
-                "title": "grimmsfairytales_08_grimm_64kb.mp3"
+                "title": "The Dog and the Sparrow"
             },
             {
-                "description": null,
+                "description": "A King is baffled by his daughters' ruined shoes each morning",
                 "file": "grimmsfairytales_09_grimm_64kb.mp3",
-                "title": "grimmsfairytales_09_grimm_64kb.mp3"
+                "title": "The Twelve Dancing Princesses"
             },
             {
-                "description": null,
+                "description": "A fisherman and his wife abuse a magic fish",
                 "file": "grimmsfairytales_10_grimm_64kb.mp3",
-                "title": "grimmsfairytales_10_grimm_64kb.mp3"
+                "title": "The Fisherman and His Wife"
             },
             {
-                "description": null,
+                "description": "A bear and a royal family of wrens have a disagreement",
                 "file": "grimmsfairytales_11_grimm_64kb.mp3",
-                "title": "grimmsfairytales_11_grimm_64kb.mp3"
+                "title": "The Willow-Wren and The Bear"
             },
             {
-                "description": null,
+                "description": "A spoiled princess discoveres a prince turned into a frog",
                 "file": "grimmsfairytales_12_grimm_64kb.mp3",
-                "title": "grimmsfairytales_12_grimm_64kb.mp3"
+                "title": "The Frog Prince"
             },
             {
-                "description": null,
+                "description": "A cat and a mouse set up home",
                 "file": "grimmsfairytales_13_grimm_64kb.mp3",
-                "title": "grimmsfairytales_13_grimm_64kb.mp3"
+                "title": "Cat and Mouse In Partnership"
             },
             {
-                "description": null,
+                "description": "A widowed queen sends her daughter to her bridegroom in a faraway land",
                 "file": "grimmsfairytales_14_grimm_64kb.mp3",
-                "title": "grimmsfairytales_14_grimm_64kb.mp3"
+                "title": "The Goose Girl"
             },
             {
-                "description": null,
+                "description": "A ragtag group cause trouble for an innkeeper",
                 "file": "grimmsfairytales_15_grimm_64kb.mp3",
-                "title": "grimmsfairytales_15_grimm_64kb.mp3"
+                "title": "The Adventurers of Chanticleer and Partlet"
             },
             {
-                "description": null,
+                "description": "A kidnapped girl with extraordinary hair must escape an evil witch",
                 "file": "grimmsfairytales_16_grimm_64kb.mp3",
-                "title": "grimmsfairytales_16_grimm_64kb.mp3"
+                "title": "Rapunzel"
             },
             {
-                "description": null,
+                "description": "A forester's daughter raises a baby bird",
                 "file": "grimmsfairytales_17_grimm_64kb.mp3",
-                "title": "grimmsfairytales_17_grimm_64kb.mp3"
+                "title": "Fundevogel"
             },
             {
-                "description": null,
+                "description": "A tailor shows his bravery",
                 "file": "grimmsfairytales_18_grimm_64kb.mp3",
-                "title": "grimmsfairytales_18_grimm_64kb.mp3"
+                "title": "The Valiant Little Tailor"
             },
             {
-                "description": null,
+                "description": "A brother and sister must escape an evil witch",
                 "file": "grimmsfairytales_19_grimm_64kb.mp3",
-                "title": "grimmsfairytales_19_grimm_64kb.mp3"
+                "title": "Hansel and Gretel"
             },
             {
-                "description": null,
+                "description": "A mouse, bird and sausage live happily together",
                 "file": "grimmsfairytales_20_grimm_64kb.mp3",
-                "title": "grimmsfairytales_20_grimm_64kb.mp3"
+                "title": "The Mouse, The Bird, and the Sausage"
             },
             {
-                "description": null,
+                "description": "A downtrodden stepdaughter enters a magical realm",
                 "file": "grimmsfairytales_21_grimm_64kb.mp3",
-                "title": "grimmsfairytales_21_grimm_64kb.mp3"
+                "title": "Mother Holle"
             },
             {
-                "description": null,
+                "description": "A little girl must fend off a big bad wolf",
                 "file": "grimmsfairytales_22_grimm_64kb.mp3",
-                "title": "grimmsfairytales_22_grimm_64kb.mp3"
+                "title": "Little Red Riding Hood"
             },
             {
-                "description": null,
+                "description": "A girl discovers her fiance is an evil robber",
                 "file": "grimmsfairytales_23_grimm_64kb.mp3",
-                "title": "grimmsfairytales_23_grimm_64kb.mp3"
+                "title": "The Robber Bridegroom"
             },
             {
-                "description": null,
+                "description": "The adventures of a tiny boy",
                 "file": "grimmsfairytales_24_grimm_64kb.mp3",
-                "title": "grimmsfairytales_24_grimm_64kb.mp3"
+                "title": "Tom Thumb"
             },
             {
-                "description": null,
+                "description": "A miller's daughter must outwit an imp to break a promise given to him",
                 "file": "grimmsfairytales_25_grimm_64kb.mp3",
-                "title": "grimmsfairytales_25_grimm_64kb.mp3"
+                "title": "Rumpelstiltskin"
             },
             {
-                "description": null,
+                "description": "A cook, Gretel, must cover up her greed",
                 "file": "grimmsfairytales_26_grimm_64kb.mp3",
-                "title": "grimmsfairytales_26_grimm_64kb.mp3"
+                "title": "Clever Gretel"
             },
             {
-                "description": null,
+                "description": "A grandson saves his ailing grandfather from his ungrateful kids",
                 "file": "grimmsfairytales_27_grimm_64kb.mp3",
-                "title": "grimmsfairytales_27_grimm_64kb.mp3"
+                "title": "The Old Man and His Grandson"
             },
             {
-                "description": null,
+                "description": "A poor man and his wife try to escape oppressive poverty",
                 "file": "grimmsfairytales_28_grimm_64kb.mp3",
-                "title": "grimmsfairytales_28_grimm_64kb.mp3"
+                "title": "The Little Peasant"
             },
             {
-                "description": null,
+                "description": "A series of misunderstandings and errors by poor Catherine",
                 "file": "grimmsfairytales_29_grimm_64kb.mp3",
-                "title": "grimmsfairytales_29_grimm_64kb.mp3"
+                "title": "Frederick and Catherine"
             },
             {
-                "description": null,
+                "description": "A girl and her Roland escape her wicked witch stepmother",
                 "file": "grimmsfairytales_30_grimm_64kb.mp3",
-                "title": "grimmsfairytales_30_grimm_64kb.mp3"
+                "title": "Sweetheart Roland"
             },
             {
-                "description": null,
+                "description": "A girl escapes the evil stepmother Queen. A version of Snow White",
                 "file": "grimmsfairytales_31_grimm_64kb.mp3",
-                "title": "grimmsfairytales_31_grimm_64kb.mp3"
+                "title": "Snowdrop"
             },
             {
-                "description": null,
+                "description": "A prince with magical wish powers saves himself and his mother",
                 "file": "grimmsfairytales_32_grimm_64kb.mp3",
-                "title": "grimmsfairytales_32_grimm_64kb.mp3"
+                "title": "The Pink"
             },
             {
-                "description": null,
+                "description": "A short story of a girl called Elsie",
                 "file": "grimmsfairytales_33_grimm_64kb.mp3",
-                "title": "grimmsfairytales_33_grimm_64kb.mp3"
+                "title": "Clever Elsie"
             },
             {
-                "description": null,
+                "description": "A faithful servant is granted three wishes",
                 "file": "grimmsfairytales_34_grimm_64kb.mp3",
-                "title": "grimmsfairytales_34_grimm_64kb.mp3"
+                "title": "The Miser In The Bush"
             },
             {
-                "description": null,
+                "description": "A downtrodden girl gets gifts from a magical tree to help her court a Prince. A version of Cinderella.",
                 "file": "grimmsfairytales_35_grimm_64kb.mp3",
-                "title": "grimmsfairytales_35_grimm_64kb.mp3"
+                "title": "Ashputtel"
             },
             {
-                "description": null,
+                "description": "A man gains the power to understand animals",
                 "file": "grimmsfairytales_36_grimm_64kb.mp3",
-                "title": "grimmsfairytales_36_grimm_64kb.mp3"
+                "title": "The White Snake"
             },
             {
-                "description": null,
+                "description": "A family of goats must fend off the big bad wolf",
                 "file": "grimmsfairytales_37_grimm_64kb.mp3",
-                "title": "grimmsfairytales_37_grimm_64kb.mp3"
+                "title": "The Wolf and the Seven Little Kids"
             },
             {
-                "description": null,
+                "description": "Three princes go on a quest for their fortune",
                 "file": "grimmsfairytales_38_grimm_64kb.mp3",
-                "title": "grimmsfairytales_38_grimm_64kb.mp3"
+                "title": "The Queen Bee"
             },
             {
-                "description": null,
+                "description": "A shoemaker receives aid from kind Elves",
                 "file": "grimmsfairytales_39_grimm_64kb.mp3",
-                "title": "grimmsfairytales_39_grimm_64kb.mp3"
+                "title": "The Elves and the Shoemaker"
             },
             {
-                "description": null,
+                "description": "A tale of a boy contending with his evil stepmother",
                 "file": "grimmsfairytales_40_grimm_64kb.mp3",
-                "title": "grimmsfairytales_40_grimm_64kb.mp3"
+                "title": "The Juniper Tree"
             },
             {
-                "description": null,
+                "description": "A short story of a farmer who gives a turnip to the King",
                 "file": "grimmsfairytales_41_grimm_64kb.mp3",
-                "title": "grimmsfairytales_41_grimm_64kb.mp3"
+                "title": "The Turnip"
             },
             {
-                "description": null,
+                "description": "An ironic tale of a boy who ruins his engagement with a girl",
                 "file": "grimmsfairytales_42_grimm_64kb.mp3",
-                "title": "grimmsfairytales_42_grimm_64kb.mp3"
+                "title": "Clever Hans"
             },
             {
-                "description": null,
+                "description": "A simple boy learns to speak three animal languages",
                 "file": "grimmsfairytales_43_grimm_64kb.mp3",
-                "title": "grimmsfairytales_43_grimm_64kb.mp3"
+                "title": "The Three Languages"
             },
             {
-                "description": null,
+                "description": "An arrogant fox is bested by a humble cat",
                 "file": "grimmsfairytales_44_grimm_64kb.mp3",
-                "title": "grimmsfairytales_44_grimm_64kb.mp3"
+                "title": "The Fox and the Cat"
             },
             {
-                "description": null,
+                "description": "A poor old father sends his sons out to learn trades",
                 "file": "grimmsfairytales_45_grimm_64kb.mp3",
-                "title": "grimmsfairytales_45_grimm_64kb.mp3"
+                "title": "The Four Clever Brothers"
             },
             {
-                "description": null,
+                "description": "Lily has an adventurous life with her magically cursed Prince",
                 "file": "grimmsfairytales_46_grimm_64kb.mp3",
-                "title": "grimmsfairytales_46_grimm_64kb.mp3"
+                "title": "Lily and the Lion"
             },
             {
-                "description": null,
+                "description": "A homeless horse gets help from a fox",
                 "file": "grimmsfairytales_47_grimm_64kb.mp3",
-                "title": "grimmsfairytales_47_grimm_64kb.mp3"
+                "title": "The Fox and the Horse"
             },
             {
-                "description": null,
+                "description": "A retired soldier finds his way",
                 "file": "grimmsfairytales_48_grimm_64kb.mp3",
-                "title": "grimmsfairytales_48_grimm_64kb.mp3"
+                "title": "The Blue Light"
             },
             {
-                "description": null,
+                "description": "A naughty princess is turned into a raven",
                 "file": "grimmsfairytales_49_grimm_64kb.mp3",
-                "title": "grimmsfairytales_49_grimm_64kb.mp3"
+                "title": "The Raven"
             },
             {
-                "description": null,
+                "description": "A boy gets a golden goose",
                 "file": "grimmsfairytales_50_grimm_64kb.mp3",
-                "title": "grimmsfairytales_50_grimm_64kb.mp3"
+                "title": "The Golden Goose"
             },
             {
-                "description": null,
+                "description": "A prince seeks the water of life",
                 "file": "grimmsfairytales_51_grimm_64kb.mp3",
-                "title": "grimmsfairytales_51_grimm_64kb.mp3"
+                "title": "The Water of Life"
             },
             {
-                "description": null,
+                "description": "A prince's fiancee tries to win him back",
                 "file": "grimmsfairytales_52_grimm_64kb.mp3",
-                "title": "grimmsfairytales_52_grimm_64kb.mp3"
+                "title": "The Twelve Huntsmen"
             },
             {
-                "description": null,
-                "file": "grimmsfairytales_53_grimm_64kb.mp3",
-                "title": "grimmsfairytales_53_grimm_64kb.mp3"
-            },
-            {
-                "description": null,
+                "description": "A man passes himself off as a wise doctor",
                 "file": "grimmsfairytales_54_grimm_64kb.mp3",
-                "title": "grimmsfairytales_54_grimm_64kb.mp3"
+                "title": "Doctor Knowall"
             },
             {
-                "description": null,
+                "description": "Seven brothers are accidentally cursed to become ravens",
                 "file": "grimmsfairytales_55_grimm_64kb.mp3",
-                "title": "grimmsfairytales_55_grimm_64kb.mp3"
+                "title": "The Seven Ravens"
             },
             {
-                "description": null,
+                "description": "The widow Fox remarries",
                 "file": "grimmsfairytales_56_grimm_64kb.mp3",
-                "title": "grimmsfairytales_56_grimm_64kb.mp3"
+                "title": "The Wedding of Mrs. Fox"
             },
             {
-                "description": null,
+                "description": "A young man uses salad to defeat a witch",
                 "file": "grimmsfairytales_57_grimm_64kb.mp3",
-                "title": "grimmsfairytales_57_grimm_64kb.mp3"
+                "title": "The Salad"
             },
             {
-                "description": null,
+                "description": "A boy tries to understand fear",
                 "file": "grimmsfairytales_58_grimm_64kb.mp3",
-                "title": "grimmsfairytales_58_grimm_64kb.mp3"
+                "title": "The Story of the Youth Who Went Forth To Learn What Fear Was"
             },
             {
-                "description": null,
+                "description": "A princess must learn to overcome her pride and snobbery",
                 "file": "grimmsfairytales_59_grimm_64kb.mp3",
-                "title": "grimmsfairytales_59_grimm_64kb.mp3"
+                "title": "King Grisly-Beard"
             },
             {
-                "description": null,
+                "description": "A magical giant called Hans roams the woods",
                 "file": "grimmsfairytales_60_grimm_64kb.mp3",
-                "title": "grimmsfairytales_60_grimm_64kb.mp3"
+                "title": "Iron Hans"
             },
             {
-                "description": null,
-                "file": "grimmsfairytales_61_grimm_64kb.mp3",
-                "title": "grimmsfairytales_61_grimm_64kb.mp3"
-            },
-            {
-                "description": null,
+                "description": "Two sisters befriend a bear",
                 "file": "grimmsfairytales_62_grimm_64kb.mp3",
-                "title": "grimmsfairytales_62_grimm_64kb.mp3"
-            },
-            {
-                "description": null,
-                "file": "grimmsfairytales_63_grimm_64kb.mp3",
-                "title": "grimmsfairytales_63_grimm_64kb.mp3"
+                "title": "Snow-White and Rose-Red"
             }
-        ],
-        "title": "grimm_fairy_tales"
+       ],
+        "title": "Grimm Fairy Tales"
     },
-    "hunting_of_the_snark": {
+    "The Hunting of the Snark": {
         "album_art": "hunting_of_the_snark.jpg",
-        "description": null,
+        "description": "The Hunting of the Snark is a poem by Lewis Carroll describing the adventures of ten strange characters as they pursue the Snark.",
+        "readers": ["Shawn Craig Smith"],
+        "authors": ["Lewis Carroll"],
+        "translators": null,
         "parts": [
             {
                 "description": null,
                 "file": "huntingofthesnark_1_carroll_64kb.mp3",
-                "title": "huntingofthesnark_1_carroll_64kb.mp3"
+                "title": "Preface and Fits 1 & 2"
             },
             {
                 "description": null,
                 "file": "huntingofthesnark_2_carroll_64kb.mp3",
-                "title": "huntingofthesnark_2_carroll_64kb.mp3"
+                "title": "Fits 3 & 4"
             },
             {
                 "description": null,
                 "file": "huntingofthesnark_3_carroll_64kb.mp3",
-                "title": "huntingofthesnark_3_carroll_64kb.mp3"
+                "title": "Fits 4 & 6"
             },
             {
                 "description": null,
                 "file": "huntingofthesnark_4_carroll_64kb.mp3",
-                "title": "huntingofthesnark_4_carroll_64kb.mp3"
+                "title": "Fits 7 & 8"
             }
         ],
-        "title": "hunting_of_the_snark"
+        "title": "The Hunting of the Snark"
     },
-    "through_the_looking_glass": {
+    "Through the Looking-Glass": {
         "album_art": "through_the_looking_glass.jpg",
-        "description": null,
+        "description": "The sequel to Alice's Adventures in Wonderland, where Alice ponders what the world is like on the other side of a mirror's reflection.",
+        "readers": ["Kara Shallenberg"],
+        "authors": ["Lewis Carroll"],
+        "translators": null,
         "parts": [
             {
                 "description": null,
                 "file": "looking-glass_01_carroll_64kb.mp3",
-                "title": "looking-glass_01_carroll_64kb.mp3"
+                "title": "Looking-Glass House"
             },
             {
                 "description": null,
                 "file": "looking-glass_02_carroll_64kb.mp3",
-                "title": "looking-glass_02_carroll_64kb.mp3"
+                "title": "The Garden of Live Flowers"
             },
             {
                 "description": null,
                 "file": "looking-glass_03_carroll_64kb.mp3",
-                "title": "looking-glass_03_carroll_64kb.mp3"
+                "title": "Looking-Glass Insects"
             },
             {
                 "description": null,
                 "file": "looking-glass_04_carroll_64kb.mp3",
-                "title": "looking-glass_04_carroll_64kb.mp3"
+                "title": "Tweedledum and Tweedledee"
             },
             {
                 "description": null,
                 "file": "looking-glass_05_carroll_64kb.mp3",
-                "title": "looking-glass_05_carroll_64kb.mp3"
+                "title": "Wool and Water"
             },
             {
                 "description": null,
                 "file": "looking-glass_06_carroll_64kb.mp3",
-                "title": "looking-glass_06_carroll_64kb.mp3"
+                "title": "Humpty Dumpty"
             },
             {
                 "description": null,
                 "file": "looking-glass_07_carroll_64kb.mp3",
-                "title": "looking-glass_07_carroll_64kb.mp3"
+                "title": "The Lion and the Unicorn"
             },
             {
                 "description": null,
                 "file": "looking-glass_08_carroll_64kb.mp3",
-                "title": "looking-glass_08_carroll_64kb.mp3"
+                "title": "'It's my own invention'"
             },
             {
                 "description": null,
                 "file": "looking-glass_09_carroll_64kb.mp3",
-                "title": "looking-glass_09_carroll_64kb.mp3"
+                "title": "Queen Alice"
             },
             {
                 "description": null,
                 "file": "looking-glass_10-11-12_carroll_64kb.mp3",
-                "title": "looking-glass_10-11-12_carroll_64kb.mp3"
+                "title": "Shaking/Waking/Which Dreamed It?"
             }
         ],
-        "title": "through_the_looking_glass"
+        "title": "Through the Looking-Glass"
     },
-    "wonderful_wizard_of_oz": {
+    "The Wonderful Wizard of Oz": {
         "album_art": "wonderful_wizard_of_oz.jpg",
         "description": null,
+        "readers": ["W.Blaine Dowler"],
+        "authors": ["L. Frank Baum"],
+        "translators": null,
         "parts": [
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_01_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_01_baum_64kb.mp3"
+                "title": "Chapters 1-2"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_02_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_02_baum_64kb.mp3"
+                "title": "Chapters 3-4"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_03_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_03_baum_64kb.mp3"
+                "title": "Chapters 5-6"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_04_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_04_baum_64kb.mp3"
+                "title": "Chapters 7-8"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_05_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_05_baum_64kb.mp3"
+                "title": "Chapters 9-10"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_06_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_06_baum_64kb.mp3"
+                "title": "Chapters 11-12"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_07_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_07_baum_64kb.mp3"
+                "title": "Chapters 13-14"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_08_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_08_baum_64kb.mp3"
+                "title": "Chapters 15-16"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_09_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_09_baum_64kb.mp3"
+                "title": "Chapters 17-18"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_10_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_10_baum_64kb.mp3"
+                "title": "Chapters 19-20"
             },
             {
                 "description": null,
                 "file": "wonderfulwizardofoz_11_baum_64kb.mp3",
-                "title": "wonderfulwizardofoz_11_baum_64kb.mp3"
+                "title": "Chapters 21-24"
             }
         ],
-        "title": "wonderful_wizard_of_oz"
+        "title": "The Wonderful Wizard of Oz"
     }
 }
