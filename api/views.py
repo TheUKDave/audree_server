@@ -72,7 +72,7 @@ class ChapterList(JSONGetView):
             }
 
             if chapter['description'] is not None:
-                chapters['description'] = value['description']
+                chapter_data['description'] = chapter['description']
 
             chapters.append(chapter_data)
 
