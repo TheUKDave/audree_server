@@ -49,7 +49,7 @@ class BookList(JSONGetView):
                 'art': static("{0}/{1}".format(settings.ALBUM_ART_DIRNAME, value['album_art']))
             }
             if value['description'] is not None:
-                data['key']['description'] = value['description']
+                data[key]['description'] = value['description']
 
         return data
 

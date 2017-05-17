@@ -1,5 +1,5 @@
 {
-    "Alice's Adventures in Wonderland": {
+    "alices_adventures_in_wonderland": {
         "album_art": "alices_adventures_in_wonderland.jpg",
         "description": "Alice's Adventures in Wonderland tells the story of a girl named Alice who falls down a rabbit hole into a fantasy world populated by peculiar and anthropomorphic creatures. The tale plays with logic in ways that have given the story lasting popularity with adults as well as children. It is considered to be one of the most characteristic examples of the 'literary nonsense' genre, and its narrative course and structure have been enormously influential, especially in the fantasy genre",
         "readers": ["Kara Shallenberg"],
@@ -69,7 +69,7 @@
         ],
         "title": "Alice's Adventures in Wonderland"
     },
-    "Grimm Fairy Tales": {
+    "grimm_fairy_tales": {
         "album_art": "grimm_fairy_tales.jpg",
         "description": "A collection of German origin fairy tales first published in 1812 by Jacob and Wilhelm Grimm, the Brothers Grimm. The collection is commonly known today as Grimms' Fairy Tales (German: Grimms Märchen). Please note that some of the contents may not be suitable for younger listeners",
         "readers": ["Bob Neufeld"],
@@ -379,7 +379,7 @@
        ],
         "title": "Grimm Fairy Tales"
     },
-    "The Hunting of the Snark": {
+    "hunting_of_the_snark": {
         "album_art": "hunting_of_the_snark.jpg",
         "description": "The Hunting of the Snark is a poem by Lewis Carroll describing the adventures of ten strange characters as they pursue the Snark.",
         "readers": ["Shawn Craig Smith"],
@@ -409,7 +409,7 @@
         ],
         "title": "The Hunting of the Snark"
     },
-    "Through the Looking-Glass": {
+    "through_the_looking_glass": {
         "album_art": "through_the_looking_glass.jpg",
         "description": "The sequel to Alice's Adventures in Wonderland, where Alice ponders what the world is like on the other side of a mirror's reflection.",
         "readers": ["Kara Shallenberg"],
@@ -469,7 +469,7 @@
         ],
         "title": "Through the Looking-Glass"
     },
-    "The Wonderful Wizard of Oz": {
+    "wonderful_wizard_of_oz": {
         "album_art": "wonderful_wizard_of_oz.jpg",
         "description": null,
         "readers": ["W.Blaine Dowler"],
